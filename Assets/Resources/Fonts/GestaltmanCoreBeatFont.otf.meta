@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: f08f8374d4015314fa8a4c39f53e5e6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 128
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GestaltRobot
+  fontNames:
+  - GestaltRobot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3e46cb02d3208e0459baefc9d6934255, type: 3}
+  - {fileID: 12800000, guid: a93c6e42daadafe4481e222493242f0b, type: 3}
+  - {fileID: 12800000, guid: 330b5b84523ddc94a939f030983b321d, type: 3}
+  - {fileID: 12800000, guid: 3062959556bd97b4eb66c31454e15c29, type: 3}
+  - {fileID: 12800000, guid: e7f9c5165854e7c42857ef73b2aff8d2, type: 3}
+  - {fileID: 12800000, guid: 72ac24398d1962d4a82a04056eb8d481, type: 3}
+  - {fileID: 12800000, guid: c7b9864c8a0dc7148b97696d9957a7b2, type: 3}
+  - {fileID: 12800000, guid: 58f5454e859c7f442814c8c5cec711e7, type: 3}
+  - {fileID: 12800000, guid: 5f6fe7af4f13e60469164a38800ec50f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

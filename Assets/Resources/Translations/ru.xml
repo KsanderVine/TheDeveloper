@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<Data>
+		<Game value="TheDeveloper"/>
+		<Language value="Русский"/>
+		<Version value="0.1"/>
+	</Data>
+	<Enum>
+		<Rank>
+			<Bob value="Боб"/>
+			<Intern value="Стажер"/>
+			<Junior value="Джун"/>
+			<Middle value="Мидл"/>
+			<Senior value="Сеньор"/>
+			<Lead value="Лид"/>
+			<TheDeveloper value="Ты ж программист"/>
+		</Rank>
+		<Grade>
+			<Grade0 value="Наивный"/>
+			<Grade1 value="Начинающий"/>
+			<Grade2 value="Вопрошающий"/>
+			<Grade3 value="Начитанный"/>
+			<Grade4 value="Вдохновленный"/>
+			<Grade5 value="Всезнающий"/>
+			<Grade6 value="Исправляющий"/>
+			<Grade7 value="Депрессивный"/>
+			<Grade8 value="Кофеман"/>
+			<Grade9 value="Сверхразумный"/>
+		</Grade>
+		<Special>
+			<Spell0 value="программист ИИ"/>
+			<Spell1 value="со знанием GIT"/>
+			<Spell2 value="понимающий .NET"/>
+			<Spell3 value="Hyper Casual'ист"/>
+			<Spell4 value="шарящий за Google Play"/>
+			<Spell5 value="сторонник App Store"/>
+			<Spell6 value="художник шейдеров"/>
+			<Spell7 value="генератор концептов"/>
+			<Spell8 value="хакатонщик"/>
+			<Spell9 value="со знанием веб-разработки"/>
+			<Spell10 value="генератор случайных фраз"/>
+			<Spell11 value="магистр Visual Studio"/>
+			<Spell12 value="хранитель Firebase"/>
+			<Spell13 value="ценитель ООП"/>
+			<Spell14 value="проповедник SOLID"/>
+			<Spell15 value="разбирающийся в чужом коде"/>
+			<Spell16 value="с приросшим геймпадом"/>
+			<Spell17 value="с уникальным взглядом"/>
+			<Spell18 value="без опыта работы"/>
+			<Spell19 value="амбассадор Indie"/>
+			<Spell20 value="фулстак-швейцарский-нож"/>
+			<Spell21 value="уважающий Front-end"/>
+			<Spell22 value="бывший мододел"/>
+			<Spell23 value="разбирающийся во Fraps"/>
+			<Spell24 value="творец туториалов на Youtube "/>
+			<Spell25 value="спонсор хорошего настроения"/>
+			<Spell26 value="воспринимающий всё всерьез"/>
+			<Spell27 value="оптимизатор хорошего кода"/>
+			<Spell28 value="ждущий возмездия за свои баги"/>
+			<Spell29 value="скрывающий, что он просто гуглит код"/>
+		</Special>
+	</Enum>
+	<UI>
+		<BestRank value="Лучший ранг: {0}"/>
+		<BestScore value="Лучший счет: {0}"/>
+		<RankAndLevel value="Уровень {0}, {1}"/>
+		<ResolvingCoast value="Затраты на реализацию {0}$"/>
+		<Version value="Версия: {0}"/>
+		<PauseButton value="ESC - пауза"/>
+		<Controlls>
+			A, Стрелка влево - Лево
+			D, Стрелка вправо - Право
+			Пробел - Прыжок
+			ЛКМ - Бросок предмета
+		</Controlls>
+		<Menu>
+			<Settings value="Настройки"/>
+			<BackToGame value="Вернуться к игре"/>
+			<Restart value="Перезапуск"/>
+			<ExitGame value="Выход из игры"/>
+		</Menu>
+	</UI>
+</Lexicon>

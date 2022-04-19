@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - Bugs
+  - Ground
+  - Obstacles
+  - Items
+  - Overall
+  - Environment
+  - Debris
+  - Light
+  - Unit
+  - Destructable
+  - Physics
+  - SaveScore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2844840937
+    locked: 0
+  - name: Object
+    uniqueID: 3436508679
+    locked: 0
+  - name: Item
+    uniqueID: 1639081149
+    locked: 0
+  - name: Unit
+    uniqueID: 3048391943
+    locked: 0
+  - name: Character
+    uniqueID: 3322621895
+    locked: 0
+  - name: Bullet
+    uniqueID: 2449418047
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3820940935
+    locked: 0
+  - name: Effect
+    uniqueID: 1720126775
+    locked: 0
+  - name: Ground
+    uniqueID: 3840485175
+    locked: 0
+  - name: Overall
+    uniqueID: 1300201129
+    locked: 0
+  - name: Light
+    uniqueID: 1684576683
+    locked: 0

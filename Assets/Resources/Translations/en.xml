@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lexicon>
+	<Data>
+		<Game value="TheDeveloper"/>
+		<Language value="(GoogleTranslated)"/>
+		<Version value="0.1"/>
+	</Data>
+	<Enum>
+		<Rank>
+			<Bob value="Bob"/>
+			<Intern value="Intern"/>
+			<Junior value="Junior"/>
+			<Middle value="Middle"/>
+			<Senior value="Senior"/>
+			<Lead value="Lead"/>
+			<TheDeveloper value="TheDeveloper"/>
+		</Rank>
+		<Grade>
+			<Grade0 value="Naive"/>
+			<Grade1 value="Beginner"/>
+			<Grade2 value="Questioner"/>
+			<Grade3 value="Well-read"/>
+			<Grade4 value="Inspired"/>
+			<Grade5 value="All-knowing"/>
+			<Grade6 value="Remedial"/>
+			<Grade7 value="Depressed"/>
+			<Grade8 value="Coffee lover"/>
+			<Grade9 value="Superintelligent"/>
+		</Grade>
+		<Special>
+			<Spell0 value="AI programmer"/>
+			<Spell1 value="with knowledge of GIT"/>
+			<Spell2 value="understanding .NET"/>
+			<Spell3 value="Hyper Casual"/>
+			<Spell4 value="groping for Google Play"/>
+			<Spell5 value="App Store supporter"/>
+			<Spell6 value="shader artist"/>
+			<Spell7 value="concept generator"/>
+			<Spell8 value="hacker"/>
+			<Spell9 value="with knowledge of web development"/>
+			<Spell10 value="random phrase generator"/>
+			<Spell11 value="Visual Studio Master"/>
+			<Spell12 value="Firebase Guardian"/>
+			<Spell13 value="OOP connoisseur"/>
+			<Spell14 value="SOLID preacher"/>
+			<Spell15 value="code-savvy"/>
+			<Spell16 value="increased gamepad"/>
+			<Spell17 value="with a unique look"/>
+			<Spell18 value="no work experience"/>
+			<Spell19 value="Indie Ambassador"/>
+			<Spell20 value="Fullstack Swiss Army Knife"/>
+			<Spell21 value="respectful Front-end"/>
+			<Spell22 value="former mod"/>
+			<Spell23 value="fraps-savvy"/>
+			<Spell24 value="Youtube tutorial creator"/>
+			<Spell25 value="spell sponsor"/>
+			<Spell26 value="taking things seriously"/>
+			<Spell27 value="good code optimizer"/>
+			<Spell28 value="Waiting for retribution for his bugs"/>
+			<Spell29 value="hide that he's just google code"/>
+		</Special>
+	</Enum>
+	<UI>
+		<BestRank value="Best Rank: {0}"/>
+		<BestScore value="Best Score: {0}"/>
+		<RankAndLevel value="Level {0}, {1}"/>
+		<Version value="Version: {0}"/>
+		<ResolvingCoast value="Resolving coast {0}$"/>
+		<PauseButton value="ESC - pause"/>
+		<Controlls>
+			A, LeftArrow - Left,
+			D, RightArrow - Right
+			Space - Jump
+			LMB - Throw item
+		</Controlls>
+		<Menu>
+			<Settings value="Settings"/>
+			<BackToGame value="Return to game"/>
+			<Restart value="Restart"/>
+			<ExitGame value="Exit game"/>
+		</Menu>
+	</UI>
+</Lexicon>
